@@ -1,0 +1,22 @@
+.nav-link:hover {
+    color: dodgerblue !important;
+}
+
+nav {
+    padding-left: 50px;
+}
+
+.custom-header-bg {
+    background-color: #202020 !important;
+}
+
+.mr-50 {
+    margin-right: 50px;
+}
+
+.username {
+    font-size: 22px;
+    margin-right: 20px;
+    margin-top: 4px;
+    color: azure;
+}
